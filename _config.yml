@@ -1,0 +1,12 @@
+# Site settings
+title: Hugo
+email: mail@hugo.codes
+description: > # this means to ignore newlines until "baseurl:"
+  Hugo
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://hugo.codes" # the base hostname & protocol for your site
+twitter_username: hugo_firth
+github_username:  firthh
+
+# Build settings
+markdown: kramdown
